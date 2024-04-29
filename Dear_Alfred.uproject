@@ -30,6 +30,10 @@
 				"Linux",
 				"Android"
 			]
+		},
+		{
+			"Name": "NiagaraSimCaching",
+			"Enabled": true
 		}
 	],
 	"TargetPlatforms": [
