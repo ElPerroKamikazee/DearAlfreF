@@ -1,0 +1,25 @@
+﻿newmtl GrassRVTMaster
+	map_Kd GrassRVTMaster_D.bmp
+	map_Ks GrassRVTMaster_S.bmp
+	bump GrassRVTMaster_N.bmp
+
+newmtl m_flowerTop_Inst1
+	map_Kd m_flowerTop_Inst1_D.bmp
+	map_Ks m_flowerTop_Inst1_S.bmp
+	bump m_flowerTop_Inst1_N.bmp
+
+newmtl m_flowerTop_Inst2
+	map_Kd m_flowerTop_Inst2_D.bmp
+	map_Ks m_flowerTop_Inst2_S.bmp
+	bump m_flowerTop_Inst2_N.bmp
+
+newmtl m_flowerTop_Inst3
+	map_Kd m_flowerTop_Inst3_D.bmp
+	map_Ks m_flowerTop_Inst3_S.bmp
+	bump m_flowerTop_Inst3_N.bmp
+
+newmtl sm_GrassRVT_Inst
+	map_Kd sm_GrassRVT_Inst_D.bmp
+	map_Ks sm_GrassRVT_Inst_S.bmp
+	bump sm_GrassRVT_Inst_N.bmp
+
